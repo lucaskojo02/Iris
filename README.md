@@ -1,0 +1,3 @@
+## Naive Bayes Implementation
+The code above is a concise example of applying a Gaussian Naive Bayes’ classifier to the well-known Iris dataset in a machine-learning context. It starts by loading the dataset, consisting of flower measurements and corresponding species labels, then splits it into a training set and a testing set. A Gaussian Naive Bayes model is instantiated, trained on the training set, and subsequently used to predict species on the test set. The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1-score, and the results are displayed through a confusion matrix. These steps encapsulate a typical machine-learning workflow for classification tasks.
+
